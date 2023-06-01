@@ -1,0 +1,11 @@
+# Notes: Everything below is sorted in ascending order.
+# Please keep it that way so teams can find code easier.
+
+# Start of Administrative Owners
+* sumitmotghare # Catch-all for unowned code
+
+# File VPs do not need to approve
+CODEOWNERS
+
+Dockerfile @sumitmotghare
+find-code-owners.py @sumitmotghare
